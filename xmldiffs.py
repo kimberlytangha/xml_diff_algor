@@ -2,13 +2,6 @@
 """
 File: xmldiffs.py
 
-Copyright 2004-2017 Adaptive Insights, Inc.  
-All Rights Reserved.
-
-This work contains trade secrets and confidential material of 
-Adaptive Insights, Inc., and its use or disclosure in whole or in part 
-without the express written permission of Adaptive Insights, Inc., is prohibited.
-
 Compare two folders containing matching XML file names, and diffs the files
 ignoring element and attribute order. Outputs diffs in an html file.
 
